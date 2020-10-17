@@ -10,6 +10,6 @@ Reversi/Othello game using MVC
 
 You can play 2 player's mode or play with simple UI
 
-![Screenshot](1screen.png)
-![Screenshot](2screen.png)
-![Screenshot](3screen.png)
+![Screenshot](https://github.com/ArturSavchuk/Reversi/blob/main/1screen.PNG)
+![Screenshot](https://github.com/ArturSavchuk/Reversi/blob/main/1screen.PNG)
+![Screenshot](https://github.com/ArturSavchuk/Reversi/blob/main/1screen.PNG)
